@@ -1,0 +1,4 @@
+.qoder/
+*.ps1
+.gh_token
+index-standalone.html
